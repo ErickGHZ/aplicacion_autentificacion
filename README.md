@@ -1,6 +1,4 @@
-# autentificador
-
-A new Flutter project.
+# Aplicacion para auntentificar usuarios con google
 
 ## Getting Started
 
